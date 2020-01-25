@@ -1,0 +1,11 @@
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\obj\Debug\netcoreapp2.1\InvertiNumero_3Cifras.csprojAssemblyReference.cache
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\obj\Debug\netcoreapp2.1\InvertiNumero_3Cifras.csproj.CoreCompileInputs.cache
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\obj\Debug\netcoreapp2.1\InvertiNumero_3Cifras.AssemblyInfoInputs.cache
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\obj\Debug\netcoreapp2.1\InvertiNumero_3Cifras.AssemblyInfo.cs
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\bin\Debug\netcoreapp2.1\InvertiNumero_3Cifras.deps.json
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\bin\Debug\netcoreapp2.1\InvertiNumero_3Cifras.runtimeconfig.json
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\bin\Debug\netcoreapp2.1\InvertiNumero_3Cifras.runtimeconfig.dev.json
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\bin\Debug\netcoreapp2.1\InvertiNumero_3Cifras.dll
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\bin\Debug\netcoreapp2.1\InvertiNumero_3Cifras.pdb
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\obj\Debug\netcoreapp2.1\InvertiNumero_3Cifras.dll
+c:\Users\Balta Rdz\Desktop\InvertiNumero_3Cifras\obj\Debug\netcoreapp2.1\InvertiNumero_3Cifras.pdb
