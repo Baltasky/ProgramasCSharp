@@ -1,0 +1,11 @@
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\obj\Debug\netcoreapp2.1\InvertirNumero_2Cifras.csprojAssemblyReference.cache
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\obj\Debug\netcoreapp2.1\InvertirNumero_2Cifras.csproj.CoreCompileInputs.cache
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\obj\Debug\netcoreapp2.1\InvertirNumero_2Cifras.AssemblyInfoInputs.cache
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\obj\Debug\netcoreapp2.1\InvertirNumero_2Cifras.AssemblyInfo.cs
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\bin\Debug\netcoreapp2.1\InvertirNumero_2Cifras.deps.json
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\bin\Debug\netcoreapp2.1\InvertirNumero_2Cifras.runtimeconfig.json
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\bin\Debug\netcoreapp2.1\InvertirNumero_2Cifras.runtimeconfig.dev.json
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\bin\Debug\netcoreapp2.1\InvertirNumero_2Cifras.dll
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\bin\Debug\netcoreapp2.1\InvertirNumero_2Cifras.pdb
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\obj\Debug\netcoreapp2.1\InvertirNumero_2Cifras.dll
+c:\Users\Balta Rdz\Desktop\InvertirNumero_2Cifras\obj\Debug\netcoreapp2.1\InvertirNumero_2Cifras.pdb
