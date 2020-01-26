@@ -1,0 +1,11 @@
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.deps.json
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.runtimeconfig.json
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.runtimeconfig.dev.json
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.dll
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.pdb
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.csprojAssemblyReference.cache
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.csproj.CoreCompileInputs.cache
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.AssemblyInfoInputs.cache
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.AssemblyInfo.cs
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.dll
+c:\Users\Balta Rdz\Desktop\ProgramasC#\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.pdb
