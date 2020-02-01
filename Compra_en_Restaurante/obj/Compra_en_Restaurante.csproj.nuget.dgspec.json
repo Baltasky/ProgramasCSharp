@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Balta Rdz\\Desktop\\ProgramasC#\\Compra_en_Restaurante\\Compra_en_Restaurante.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Balta Rdz\\Desktop\\ProgramasC#\\Compra_en_Restaurante\\Compra_en_Restaurante.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Balta Rdz\\Desktop\\ProgramasC#\\Compra_en_Restaurante\\Compra_en_Restaurante.csproj",
+        "projectName": "Compra_en_Restaurante",
+        "projectPath": "c:\\Users\\Balta Rdz\\Desktop\\ProgramasC#\\Compra_en_Restaurante\\Compra_en_Restaurante.csproj",
+        "packagesPath": "C:\\Users\\Balta Rdz\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Balta Rdz\\Desktop\\ProgramasC#\\Compra_en_Restaurante\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Balta Rdz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
