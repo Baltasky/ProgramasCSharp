@@ -1,0 +1,11 @@
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\bin\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.deps.json
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\bin\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.runtimeconfig.json
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\bin\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.runtimeconfig.dev.json
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\bin\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.dll
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\bin\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.pdb
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\obj\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.csprojAssemblyReference.cache
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\obj\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.csproj.CoreCompileInputs.cache
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\obj\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.AssemblyInfoInputs.cache
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\obj\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.AssemblyInfo.cs
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\obj\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.dll
+c:\Users\Balta Rdz\Desktop\FuncionesBasicas_LibreriaMath\obj\Debug\netcoreapp2.2\FuncionesBasicas_LibreriaMath.pdb
