@@ -1,0 +1,11 @@
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\bin\Debug\netcoreapp2.2\Formatos_Salida.deps.json
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\bin\Debug\netcoreapp2.2\Formatos_Salida.runtimeconfig.json
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\bin\Debug\netcoreapp2.2\Formatos_Salida.runtimeconfig.dev.json
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\bin\Debug\netcoreapp2.2\Formatos_Salida.dll
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\bin\Debug\netcoreapp2.2\Formatos_Salida.pdb
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\obj\Debug\netcoreapp2.2\Formatos_Salida.csprojAssemblyReference.cache
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\obj\Debug\netcoreapp2.2\Formatos_Salida.csproj.CoreCompileInputs.cache
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\obj\Debug\netcoreapp2.2\Formatos_Salida.AssemblyInfoInputs.cache
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\obj\Debug\netcoreapp2.2\Formatos_Salida.AssemblyInfo.cs
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\obj\Debug\netcoreapp2.2\Formatos_Salida.dll
+c:\Users\Balta Rdz\Desktop\Formatos_Salida\obj\Debug\netcoreapp2.2\Formatos_Salida.pdb
