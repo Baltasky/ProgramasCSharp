@@ -1,0 +1,11 @@
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\bin\Debug\netcoreapp2.2\EjercicioPropuesto1.deps.json
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\bin\Debug\netcoreapp2.2\EjercicioPropuesto1.runtimeconfig.json
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\bin\Debug\netcoreapp2.2\EjercicioPropuesto1.runtimeconfig.dev.json
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\bin\Debug\netcoreapp2.2\EjercicioPropuesto1.dll
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\bin\Debug\netcoreapp2.2\EjercicioPropuesto1.pdb
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\obj\Debug\netcoreapp2.2\EjercicioPropuesto1.csprojAssemblyReference.cache
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\obj\Debug\netcoreapp2.2\EjercicioPropuesto1.csproj.CoreCompileInputs.cache
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\obj\Debug\netcoreapp2.2\EjercicioPropuesto1.AssemblyInfoInputs.cache
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\obj\Debug\netcoreapp2.2\EjercicioPropuesto1.AssemblyInfo.cs
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\obj\Debug\netcoreapp2.2\EjercicioPropuesto1.dll
+C:\Users\Balta Rdz\Desktop\EjercicioPropuesto1\obj\Debug\netcoreapp2.2\EjercicioPropuesto1.pdb
