@@ -1,0 +1,11 @@
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\bin\Debug\netcoreapp2.2\MayorDe_2Numeros.deps.json
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\bin\Debug\netcoreapp2.2\MayorDe_2Numeros.runtimeconfig.json
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\bin\Debug\netcoreapp2.2\MayorDe_2Numeros.runtimeconfig.dev.json
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\bin\Debug\netcoreapp2.2\MayorDe_2Numeros.dll
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\bin\Debug\netcoreapp2.2\MayorDe_2Numeros.pdb
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\obj\Debug\netcoreapp2.2\MayorDe_2Numeros.csprojAssemblyReference.cache
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\obj\Debug\netcoreapp2.2\MayorDe_2Numeros.csproj.CoreCompileInputs.cache
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\obj\Debug\netcoreapp2.2\MayorDe_2Numeros.AssemblyInfoInputs.cache
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\obj\Debug\netcoreapp2.2\MayorDe_2Numeros.AssemblyInfo.cs
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\obj\Debug\netcoreapp2.2\MayorDe_2Numeros.dll
+c:\Users\Balta Rdz\Desktop\MayorDe_2Numeros\obj\Debug\netcoreapp2.2\MayorDe_2Numeros.pdb
